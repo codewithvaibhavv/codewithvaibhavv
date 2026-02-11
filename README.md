@@ -7,7 +7,7 @@
 ## 🚀 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,bootstrap,jquery,mysql,java,azure&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,bootstrap,jquery,mysql,java&theme=dark" />
 </div>
 
 ## 🛠 Tools I Use
