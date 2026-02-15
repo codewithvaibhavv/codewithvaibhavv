@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
 <h3 align="center">Software Engineer | .NET Developer | Full Stack Developer</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithvaibhavv&theme=onedark" />
-</p>
-
 ---
 
 <table>
@@ -52,12 +48,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithvaibhavv&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithvaibhavv&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
-
 ---
 
 ## 🔥 Streak Stats
