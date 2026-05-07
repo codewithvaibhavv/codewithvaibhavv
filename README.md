@@ -13,7 +13,7 @@
 # 🚀 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,java,html,css,js,ts,bootstrap,tailwind,jquery,react,nodejs,git,github,docker,vercel,vscode,visualstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,java,html,css,js,bootstrap,jquery,git,github,vercel,vscode,visualstudio&theme=dark" />
 </p>
 
 ---
