@@ -5,58 +5,88 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Full-Stack+Developer;Learning+Cloud+%26+System+Design;Future+Software+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Crafting+Clean+%26+Maintainable+Architecture;Full-Stack+Developer;Learning+Cloud+%26+Distributed+Systems;Future+Software+Architect" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-- I build systems that scale  
-- I care about clean architecture & performance  
-- I ship complete products, not just code  
-
-- 💻 Backend-focused engineer with strong full-stack capabilities  
-- 🔥 Core expertise: **.NET, C#, MySQL**  
-- 🌐 Building production-ready applications end-to-end  
-- ☁️ Currently diving deep into **Cloud & System Design**  
-- 🎯 Long-term vision: **Software Architect**
-
----
-
-## ⚡ Current Focus
-
-- 🏗️ Designing scalable backend systems  
-- 🔐 Writing secure and maintainable APIs  
-- ⚙️ Learning caching, queues, and distributed systems  
-- 🚀 Deploying real-world applications  
-
----
-
-## 🛠️ Tech Stack
+# 🚀 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,java,html,css,js,bootstrap,jquery,git,github,vercel,vscode,visualstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,java,html,css,js,ts,bootstrap,tailwind,jquery,react,nodejs,git,github,docker,vercel,vscode,visualstudio&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🧠 About Me
 
-### 🔹 Scalable API System
-- Built using .NET Web API  
-- Implemented Authentication & Role-based Access  
-- Optimized queries with MySQL indexing  
+```csharp
+class VaibhavSharma
+{
+    string Role = "Software Engineer";
+    string Specialization = ".NET Backend & Full-Stack Development";
 
-### 🔹 Full Stack Application
-- End-to-end app with frontend + backend integration  
-- Focus on clean architecture & modular design  
+    string[] TechStack =
+    {
+        ".NET",
+        "C#",
+        "MySQL",
+        "REST APIs",
+        "System Design",
+        "Cloud"
+    };
+
+    string CurrentFocus = "Scalable Architecture & Distributed Systems";
+
+    string Goal = "Becoming a Software Architect";
+}
+```
+
+<p align="center">
+  Passionate about building scalable applications, writing clean architecture,
+  and delivering production-ready solutions from backend to frontend.
+</p>
+
 ---
 
-## 📊 GitHub Analytics
+# ⚡ Current Focus
+
+- 🏗️ Designing scalable backend systems  
+- 🔐 Building secure & maintainable APIs  
+- ⚙️ Exploring caching, queues & distributed systems  
+- ☁️ Learning cloud-native architecture  
+- 🚀 Deploying real-world production applications  
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 Scalable API System
+- Built with **.NET Web API**
+- Authentication & Role-Based Access Control
+- Optimized database queries using **MySQL indexing**
+- Focused on scalability & clean architecture
+
+---
+
+## 🔹 Full Stack Application
+- Complete frontend + backend integration
+- Modular & maintainable architecture
+- REST API driven application
+- Production-oriented development approach
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithvaibhavv&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithvaibhavv&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithvaibhavv&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -69,23 +99,64 @@
 
 ---
 
-## 🌍 Connect With Me
+# 📌 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewithvaibhavv&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codewithvaibhavv&theme=github_dark&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithvaibhavv&theme=github_dark" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithvaibhavv&theme=github_dark" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithvaibhavv&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+# 🌍 Connect With Me
 
 <p align="center">
   <a href="mailto:vaibhav976065@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/codewithvaibhav/">
     <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/codewithvaibhavv">
+    <img src="https://img.shields.io/badge/GitHub-codewithvaibhavv-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧩 Dev Philosophy
+# 📌 GitHub Info
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
+  <img src="https://img.shields.io/github/stars/codewithvaibhavv?style=for-the-badge&color=00bfff" />
+  
+  <img src="https://img.shields.io/github/followers/codewithvaibhavv?style=for-the-badge&color=00bfff" />  
+</p>
+
+---
+
+# 🧩 Dev Philosophy
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
