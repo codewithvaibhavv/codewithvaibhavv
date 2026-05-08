@@ -133,7 +133,10 @@ class VaibhavSharma
   </a>
 
 <a href="https://www.linkedin.com/in/codewithvaibhav/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+    alt="LinkedIn"
+  />
 </a>
 
   <a href="https://github.com/codewithvaibhavv">
