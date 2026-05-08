@@ -132,9 +132,9 @@ class VaibhavSharma
     <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/codewithvaibhav/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/codewithvaibhav/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
   <a href="https://github.com/codewithvaibhavv">
     <img src="https://img.shields.io/badge/GitHub-codewithvaibhavv-181717?style=for-the-badge&logo=github&logoColor=white"/>
