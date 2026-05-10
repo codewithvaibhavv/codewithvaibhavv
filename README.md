@@ -31,7 +31,6 @@ class VaibhavSharma
         ".NET",
         "C#",
         "MySQL",
-        "REST APIs",
         "System Design",
         "Cloud"
     };
