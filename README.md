@@ -50,8 +50,7 @@ class VaibhavSharma
 
 # ⚡ Current Focus
 
-- 🏗️ Designing scalable backend systems  
-- 🔐 Building secure & maintainable APIs  
+- 🏗️ Designing scalable backend systems
 - ⚙️ Exploring caching, queues & distributed systems  
 - ☁️ Learning cloud-native architecture  
 - 🚀 Deploying real-world production applications  
@@ -61,7 +60,7 @@ class VaibhavSharma
 # 🚀 Featured Projects
 
 ## 🔹 Scalable API System
-- Built with **.NET Web API**
+- Built with **.NET**
 - Authentication & Role-Based Access Control
 - Optimized database queries using **MySQL indexing**
 - Focused on scalability & clean architecture
