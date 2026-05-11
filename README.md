@@ -60,7 +60,7 @@ class VaibhavSharma
 # 🚀 Featured Projects
 
 ## 🔹 Scalable API System
-- Built with **.NET**
+- Built with **.NET MVC**
 - Authentication & Role-Based Access Control
 - Optimized database queries using **MySQL indexing**
 - Focused on scalability & clean architecture
