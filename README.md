@@ -141,9 +141,7 @@ class VaibhavSharma
     <img src="https://img.shields.io/badge/GitHub-codewithvaibhavv-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 ---
-
 # 📌 GitHub Info
 
 <p align="center">
@@ -151,9 +149,7 @@ class VaibhavSharma
   
   <img src="https://img.shields.io/github/followers/codewithvaibhavv?style=for-the-badge&color=00bfff" />  
 </p>
-
 ---
-
 # 🧩 Dev Philosophy
 
 <p align="center">
