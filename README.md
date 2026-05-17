@@ -1,7 +1,16 @@
 <h1 align="center">Vaibhav Sharma 👨‍💻</h1>
 
 <p align="center">
-  <b>Software Engineer • .NET Developer • Full-Stack Engineer</b>
+  <b>.NET Backend Engineer • Full-Stack Developer • Future Software Architect</b>
+</p>
+
+<p align="center">
+  Backend-focused Software Engineer passionate about scalable systems,
+  clean architecture, distributed computing, and production-grade applications.
+</p>
+
+<p align="center">
+  Currently building with .NET, MySQL, REST APIs, and modern backend patterns.
 </p>
 
 <p align="center">
