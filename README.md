@@ -84,6 +84,22 @@ class VaibhavSharma
 
 ---
 
+# 🌐 Portfolio
+
+<p align="center">
+  <a href="https://portfolio-gold-eta-18.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio%201-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://portfolio-2-brown-ten.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio%202-Visit-00BFFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  Explore my personal developer portfolios showcasing projects, backend architecture, and full-stack development work.
+</p>
+
 # 📊 GitHub Analytics
 
 <p align="center">
