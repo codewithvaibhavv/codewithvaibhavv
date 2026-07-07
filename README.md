@@ -12,6 +12,9 @@ Passionate about building scalable backend systems with <strong>ASP.NET Core</st
   <a href="https://portfolio-gold-eta-18.vercel.app">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  <a href="https://github.com/codewithvaibhavv">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/codewithvaibhav">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -117,64 +120,6 @@ public class VaibhavSharma
   <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,html,css,js,bootstrap,git,github,vscode,visualstudio&theme=dark"/>
 </p>
 </div>
----
-
-## 🌱 Currently Learning
-
-- Docker
-- Redis
-- RabbitMQ
-- Azure
-- Microservices
-- Distributed Systems
-- System Design
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 Authentication & Authorization API
-
-Secure ASP.NET Core Web API implementing:
-
-- JWT Authentication
-- Role-Based Authorization
-- Repository Pattern
-- Entity Framework
-- MySQL
-- Swagger Documentation
-
-**Tech Stack:** `ASP.NET Core` `JWT` `Entity Framework` `MySQL`
-
----
-
-### 🏢 Full Stack Business Application
-
-Production-oriented business application featuring:
-
-- ASP.NET Core Backend
-- Responsive Frontend
-- RESTful APIs
-- Clean Architecture
-- MySQL Database
-
-**Tech Stack:** `ASP.NET Core` `JavaScript` `Bootstrap` `MySQL`
-
----
-
-### ⚡ Scalable Backend Services
-
-Designed backend services focused on:
-
-- REST API Development
-- Clean Architecture
-- SQL Query Optimization
-- High Performance
-- Maintainable Code
-
-**Tech Stack:** `ASP.NET Core` `C#` `MySQL`
-
----
 
 ## 📊 GitHub Statistics
 
@@ -186,27 +131,6 @@ Designed backend services focused on:
 
 </p>
 
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="mailto:vaibhav976065@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/codewithvaibhav">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/codewithvaibhavv">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
 
 <p align="center">
 
