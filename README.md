@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
 
 <h3 align="center">
-.NET Backend Engineer • Full-Stack Developer • Software Engineering Enthusiast
+.NET Backend Engineer • Full-Stack Developer • Software Engineering
 </h3>
 
 <p align="center">
