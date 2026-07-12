@@ -32,21 +32,29 @@ public class VaibhavSharma
 {
     public string Role => ".NET Backend Engineer";
 
-    public string[] Skills =>
+    public string[] Skills => new[]
     {
-        "ASP.NET Core",
-        "C#",
-        "SQL Server",
-        "MySQL",
-        "REST APIs",
-        "Entity Framework"
-    };
+      "C#",
+      "JavaScript",
+      "SQL",
 
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "jQuery",
+
+      "ASP.NET Core",
+      "ASP.NET MVC",
+      ".NET Framework",
+      "REST APIs",
+
+      "SQL Server",
+      "MySQL",
+      "Entity Framework",
+      "Entity Framework Core",
+    };
     public string Interests =>
         "Backend Engineering | Clean Architecture | System Design";
-
-    public string CurrentlyLearning =>
-        "Docker, Redis, RabbitMQ, Azure & Microservices";
 }
 ```
 
