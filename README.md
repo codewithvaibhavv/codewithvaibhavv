@@ -41,6 +41,7 @@ public class VaibhavSharma
       "HTML5",
       "CSS3",
       "Bootstrap",
+      "JavaScript"
       "jQuery",
 
       "ASP.NET Core",
