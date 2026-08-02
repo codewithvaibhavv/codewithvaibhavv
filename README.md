@@ -134,7 +134,6 @@ public class VaibhavSharma
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=codewithvaibhavv&theme=tokyonight&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithvaibhavv&theme=github_dark" />
 </p>
 
 <p align="center">
