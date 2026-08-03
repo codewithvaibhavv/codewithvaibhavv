@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codewithvaibhavv&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
 <h3 align="center">
-.NET Backend Engineer • Full-Stack Developer • Software Engineering
+.NET Developer • Backend Engineer • Software Engineer
 </h3>
 
 <p align="center">
-Passionate about building scalable backend systems with <strong>ASP.NET Core</strong>, <strong>C#</strong>, and <strong>SQL Server</strong>. I enjoy designing clean architectures, developing REST APIs, optimizing databases, and building production-ready applications.
+.NET Developer with hands-on experience building Enterprise ERP solutions using ASP.NET MVC, C#, SQL Server, Entity Framework, and REST APIs. Passionate about designing scalable applications, optimizing database performance, and developing clean, maintainable software architectures.
 </p>
 
 <p align="center">
@@ -35,13 +40,12 @@ public class VaibhavSharma
     public string[] Skills => new[]
     {
       "C#",
-      "JavaScript",
       "SQL",
 
       "HTML5",
       "CSS3",
       "Bootstrap",
-      "JavaScript"
+      "JavaScript",
       "jQuery",
 
       "ASP.NET Core",
@@ -52,18 +56,18 @@ public class VaibhavSharma
       "SQL Server",
       "MySQL",
       "Entity Framework",
-      "Entity Framework Core",
+      "Entity Framework Core"
     };
     public string Interests =>
         "Backend Engineering | Clean Architecture | System Design";
 }
 ```
-
-- 🔹 Backend-focused Software Engineer
-- 🔹 Passionate about scalable application development
-- 🔹 Interested in Distributed Systems & Cloud Technologies
-- 🔹 Continuously improving software architecture and design skills
-
+- 🔹 .NET Developer at Parsvnath Tech Solutions
+- 🔹 Developing and maintaining Enterprise ERP Applications
+- 🔹 Strong experience with ASP.NET MVC, C#, LINQ & SQL Server
+- 🔹 Passionate about Clean Architecture and System Design
+- 🔹 Interested in Cloud Technologies and Distributed Systems
+- 🔹 Continuously learning modern .NET development practices
 ---
 
 ## 💼 Technical Skills
@@ -126,7 +130,7 @@ public class VaibhavSharma
 </table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,html,css,js,bootstrap,git,github,vscode,visualstudio&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,bootstrap,mysql,git,github,vscode,visualstudio&theme=dark"/>
 </p>
 </div>
 
@@ -134,13 +138,24 @@ public class VaibhavSharma
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithvaibhavv&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithvaibhavv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithvaibhavv&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithvaibhavv&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
 <i>Building scalable software with clean architecture and modern backend technologies.</i>
 </p>
+
+## 📫 Connect With Me
+
+- Portfolio: https://portfolio-2-blush-one.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/codewithvaibhav
+- GitHub: https://github.com/codewithvaibhavv
+- Email: vaibhav976065@gmail.com
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
