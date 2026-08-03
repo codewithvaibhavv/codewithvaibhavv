@@ -150,13 +150,6 @@ public class VaibhavSharma
 <i>Building scalable software with clean architecture and modern backend technologies.</i>
 </p>
 
-## 📫 Connect With Me
-
-- Portfolio: https://portfolio-2-blush-one.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/codewithvaibhav
-- GitHub: https://github.com/codewithvaibhavv
-- Email: vaibhav976065@gmail.com
-
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
