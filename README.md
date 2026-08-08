@@ -141,13 +141,6 @@ public class VaibhavSharma
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=codewithvaibhav&theme=tokyonight&hide_border=true&v=20260808"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithvaibhavv&theme=tokyo-night&hide_border=true" />
 </p>
 
