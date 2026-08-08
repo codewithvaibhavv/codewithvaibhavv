@@ -137,8 +137,12 @@ public class VaibhavSharma
 
 ## 📊 GitHub Statistics
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=codewithvaibhavv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=codewithvaibhavv&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=codewithvaibhav&theme=tokyonight&hide_border=true&v=20260808"
     alt="GitHub Streak"
   />
 </p>
