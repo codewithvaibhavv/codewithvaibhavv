@@ -135,12 +135,13 @@ public class VaibhavSharma
 </div>
 
 ## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=codewithvaibhavv&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=codewithvaibhavv&background=2F3542&border=2F3542&stroke=455365&ring=8AB8D4&fire=8FC4DF&currStreakNum=8FC4DF&sideNums=8AB8D4&currStreakLabel=8AB8D4&sideLabels=8AB8D4&dates=C5CBD2&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithvaibhavv&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithvaibhavv&bg_color=2F3542&color=8AB8D4&line=8AB8D4&point=F0F3F5&area_color=8AB8D4&area=false&border_color=455365&hide_border=true&custom_title=Vaibhav%20Sharma%27s%20Contribution%20Graph" alt="GitHub Contribution Graph" />
 </p>
 
 <p align="center">
