@@ -160,20 +160,14 @@ public class VaibhavSharma
 
 ## 📊 GitHub Statistics
 
+<!-- GitHub Streak -->
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=codewithvaibhavv&background=0F172A&border=1E293B&stroke=334155&ring=60A5FA&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=CBD5E1&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=codewithvaibhavv&theme=dark&background=0F172A&border=1E293B&stroke=334155&ring=60A5FA&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=CBD5E1&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&hide_border=true"
     alt="GitHub Streak"
+    width="495"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=codewithvaibhavv&bg_color=0F172A&color=94A3B8&line=60A5FA&point=FFFFFF&area_color=1D4ED8&area=true&border_color=1E293B&hide_border=true&custom_title=Vaibhav%20Sharma%27s%20Contribution%20Graph"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
 ---
 
 ## 🎯 Current Focus
